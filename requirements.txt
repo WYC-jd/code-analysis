@@ -1,0 +1,7 @@
+python = 3.8
+gitpython = 3.1.45
+requests = 2.32.3
+beautifulsoup4 = 4.13.4
+
+# 其他库
+os, json, datetime, shutil, re
