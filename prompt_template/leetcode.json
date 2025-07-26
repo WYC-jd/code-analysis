@@ -1,0 +1,15 @@
+{
+  "header": "题目分析：",
+  "description": "{description}",
+  "analysis": {
+    "task": "分析以下代码段, 根据题目描述给出答案和分析报告, 输出结构化的Markdown报告(含小标题), md文件标题为 {questionID}.{questionTitle}-解决方案",
+    "instructions": [
+      "代码的功能",
+      "考察知识点",
+      "易错点",
+      "其他的方法",
+      "代码优化"
+    ]
+  }
+}
+
