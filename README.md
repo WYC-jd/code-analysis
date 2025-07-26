@@ -44,6 +44,8 @@ code_analysis/
 │  ├── report_tools.py   # 报告工具
 │  └── tools_list.py     # 工具注册
 │
+├── main.py              # 测试示例
+│
 ├── temp_repo/           # 临时仓库目录（运行时生成）
 │
 └── requirements.txt     # 依赖列表
